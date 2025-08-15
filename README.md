@@ -14,14 +14,14 @@ It covers a wide range of technologies including **HTML, CSS, JavaScript, React,
 
 ---
 
-## 📂 Tech Stack
+## 📚 Tech Stack
 | Frontend | Backend | Database | Tools |
 |----------|---------|----------|-------|
 | HTML5, CSS3, JavaScript, React | Node.js, Express | MongoDB | Git, NPM, Vite |
 
 ---
 
-## 🚀 Projects & Exercises
+## 📚 Projects & Exercises
 This repository contains projects and exercises from the course, demonstrating:
 - 🎨 **Frontend development** with HTML, CSS, JavaScript, and React
 - ⚙️ **Backend development** with Node.js, Express, and MongoDB
